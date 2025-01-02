@@ -42,6 +42,7 @@ Move the downloaded `.potx` file to your custom templates folder:
 ![Select the custom office template](Media/pic04.png)
 
 4. Choose the template file (`School_of_Innovation_Template.potx`) to start using it and start adding the new slide and choose a particular Slide.
+
 ![Choosing the custom slide](Media/pic05.png)
 
 
