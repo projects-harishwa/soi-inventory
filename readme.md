@@ -67,8 +67,8 @@ If you wish to edit the theme according to your domain needs , then you can do t
 
 ---
 ## 📚 Additional Resources
-- [Microsoft Office Template Management Documentation](https://support.microsoft.com/en-us/office/create-and-use-your-own-template-in-office-190e5d66-1a7d-49b8-9651-e044376542d4)
-- [PowerPoint Slide Master Guide](https://support.microsoft.com/en-us/office/what-is-a-slide-master-4d760649-f694-4c3a-93d3-97c43616f9eb)
+- [Microsoft Office Template Management Documentation](https://learn.microsoft.com/en-us/office/client-developer/powerpoint-home)
+- [PowerPoint Slide Master Guide](https://support.microsoft.com/en-us/office/what-is-a-slide-master-b9abb2a0-7aef-4257-a14e-4329c904da54)
 
 ---
 ## 🧾 Changelog
